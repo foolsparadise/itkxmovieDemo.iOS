@@ -1,6 +1,6 @@
 # kxmovieDemo
 ## 注意：  
-当前使用环境：MacOS High Sierra Version 10.13.2 (17C205) ，Xcode9.2 ，SDK11.2
+当前使用环境：MacOS High Sierra Version 10.13.2 (17C205) ，Xcode9.2 (9C40b) ，SDK11.2
 ## howto  
 原工程 https://github.com/kolyvan/kxmovie (原工程找不到，可以使用我fork的工程)  
 使用kxmovie工程打包ffmpeg  
